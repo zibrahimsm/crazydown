@@ -1,0 +1,196 @@
+Uri: https://cornucopia.cf/
+File Name: C:\Downloaded Web Sites\cornucopia.cf\index.htm
+Content Type: text/html
+
+Uri: https://cornucopia.cf/aa.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\aa.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/bb.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\bb.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/cc.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\cc.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/cornucopiatrailer.mp4
+File Name: C:\Downloaded Web Sites\cornucopia.cf\cornucopiatrailer.mp4
+Content Type: video/mp4
+
+Uri: https://cornucopia.cf/css/css-animate.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\css-animate.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/css/css-icofont.min.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\css-icofont.min.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/css/css-magnific-popup.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\css-magnific-popup.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/css/css-nice-select.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\css-nice-select.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/css/css-slick.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\css-slick.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/css/css-style.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\css-style.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/css/vendor-bootstrap.min.css
+File Name: C:\Downloaded Web Sites\cornucopia.cf\css\vendor-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cornucopia.cf/dd.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\dd.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/ee.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\ee.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/f.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\f.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/fonts/fonts-icofont.woff
+File Name: C:\Downloaded Web Sites\cornucopia.cf\fonts\fonts-icofont.woff
+Content Type: font/woff
+
+Uri: https://cornucopia.cf/fonts/fonts-icofont.woff2
+File Name: C:\Downloaded Web Sites\cornucopia.cf\fonts\fonts-icofont.woff2
+Content Type: font/woff2
+
+Uri: https://cornucopia.cf/h.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\h.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/images/icon-arrrow-icon2.webp
+File Name: C:\Downloaded Web Sites\cornucopia.cf\images\icon-arrrow-icon2.webp
+Content Type: image/webp
+
+Uri: https://cornucopia.cf/img/icon/dribble.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\dribble.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/facebook-bg.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\facebook-bg.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/navigation-bg1.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\navigation-bg1.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/navigation-bg2.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\navigation-bg2.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/navigation-bg3.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\navigation-bg3.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/navigation-bg4.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\navigation-bg4.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/twittre.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\twittre.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/icon/youtobe-bg.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\icon\youtobe-bg.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/others/btn-bg.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\others\btn-bg.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/others/btn-signup.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\others\btn-signup.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/others/menu_shape.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\others\menu_shape.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/others/tam-text-shape.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\others\tam-text-shape.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/others/tam-text-shape2.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\others\tam-text-shape2.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/img/others/text-mini-shape.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\img\others\text-mini-shape.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/index.html
+File Name: C:\Downloaded Web Sites\cornucopia.cf\index.html
+Content Type: text/html
+
+Uri: https://cornucopia.cf/js-ajax-mail.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-ajax-mail.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-jquery-waypoints.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-jquery-waypoints.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-jquery.nice-select.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-jquery.nice-select.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-main.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-main.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-slick.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-slick.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/js-wow.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\js-wow.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/k.jpg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\k.jpg
+Content Type: image/jpeg
+
+Uri: https://cornucopia.cf/orn-section.svg
+File Name: C:\Downloaded Web Sites\cornucopia.cf\orn-section.svg
+Content Type: image/svg+xml
+
+Uri: https://cornucopia.cf/vendor-bootstrap.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\vendor-bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/vendor-jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\vendor-jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/vendor-jquery-migrate-3.3.2.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\vendor-jquery-migrate-3.3.2.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/vendor-modernizr-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\vendor-modernizr-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://cornucopia.cf/vendor-popper.js
+File Name: C:\Downloaded Web Sites\cornucopia.cf\vendor-popper.js
+Content Type: application/javascript
+
